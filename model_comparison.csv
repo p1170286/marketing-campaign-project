@@ -1,0 +1,5 @@
+Task,Model,MAE,RMSE,R2_or_Accuracy
+Revenue,Linear Regression,163516.12479941422,249166.8941556945,0.7430198667084724
+Revenue,Random Forest Regressor,157418.71319098413,238555.25509605385,0.7644425477170794
+Profit/Loss,Logistic Regression,,,0.9224600618804066
+Profit/Loss,Random Forest Classifier,,,0.9575361495232683
